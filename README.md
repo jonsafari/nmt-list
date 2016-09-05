@@ -19,3 +19,4 @@ Feel free add to this, via a [pull request](https://github.com/jonsafari/nmt-lis
 | TensorFlow [seq2seq](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) | Google | [TensorFlow](https://github.com/tensorflow/tensorflow) | MT demo |
 | [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn) | [Yoon](https://github.com/yoonkim) | [Torch](https://github.com/torch/distro) | |
 | [textsum](https://github.com/tensorflow/models/tree/master/textsum) | Google | [TensorFlow](https://github.com/tensorflow/tensorflow) | text sum demo |
+| [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) | [CNN](https://github.com/clab/cnn) | |
