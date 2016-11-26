@@ -10,6 +10,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Backend | Comments |
 | -------- | --- | ------- | -------- |
 | [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | Custom | compatible with Nematus models |
+| [byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) | [Paarth](https://github.com/paarthneekhara) | [TensorFlow](https://github.com/tensorflow/tensorflow) | in development |
 | [chainn](https://github.com/philip30/chainn) | [Philip](http://isw3.naist.jp/~philip-a/index.html) | [Chainer](https://github.com/pfnet/chainer) | |
 | [DCNMT](https://github.com/swordyork/dcnmt) | [SwordYork](https://github.com/SwordYork) | [Blocks](https://github.com/mila-udem/blocks) | |
 | [dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial) | [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) | [Theano](https://github.com/Theano/Theano) | |
