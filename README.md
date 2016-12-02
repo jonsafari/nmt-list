@@ -16,6 +16,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial) | [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) | [Theano](https://github.com/Theano/Theano) | |
 | [dl4mt-c2c](https://github.com/nyu-dl/dl4mt-c2c) | [Jason](https://github.com/jasonleeinf), [Cho](https://github.com/kyunghyuncho) | [Theano](https://github.com/Theano/Theano) | |
 | [HNMT](https://github.com/robertostling/hnmt) | [Robert](https://github.com/robertostling) | [Theano](https://github.com/Theano/Theano) | |
+| [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) | [Chainer](https://github.com/pfnet/chainer) | |
 | [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) | [DyNet](https://github.com/clab/dynet) | |
 | [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) | [DyNet](https://github.com/clab/dynet) | |
 | [Nematus](https://github.com/rsennrich/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) | [Theano](https://github.com/Theano/Theano) | |
