@@ -36,7 +36,6 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [Neural Monkey](https://github.com/ufal/neuralmonkey) | [ÚFAL](https://github.com/ufal) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | TensorFlow [seq2seq](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) | Google | MT demo |
-| [textsum](https://github.com/tensorflow/models/tree/master/textsum) | Google | text sum demo |
 
 
 ### [Theano](https://github.com/Theano/Theano)-based NMT
@@ -63,3 +62,4 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | Custom | compatible with Nematus models |
 | [nmt.hybrid](https://github.com/lmthang/nmt.hybrid) | [Thang](https://github.com/lmthang) | Matlab | also [word-based](https://github.com/lmthang/nmt.matlab) |
 | [Paddle](https://github.com/baidu/Paddle/tree/master/demo/seqToseq/translation) | [Baidu](https://github.com/baidu) | [Paddle](https://github.com/baidu/Paddle) | demo |
+| [textsum](https://github.com/tensorflow/models/tree/master/textsum) | Google | TensorFlow | text summarization demo using seq2seq+attn |
