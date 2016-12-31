@@ -53,8 +53,8 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | [nmt-android](https://github.com/harvardnlp/nmt-android) | [Yoon](https://github.com/yoonkim), [Sasha](https://github.com/srush) |  |
-| [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn) | [Yoon](https://github.com/yoonkim) |  |
-| [OpenNMT](https://github.com/OpenNMT/OpenNMT) | [harvardnlp](http://nlp.seas.harvard.edu/) | |
+| [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn) | [Yoon](https://github.com/yoonkim) | Superseded by OpenNMT |
+| [OpenNMT](https://github.com/OpenNMT/OpenNMT) | [harvardnlp](http://nlp.seas.harvard.edu/) |  |
 
 
 ### Other
