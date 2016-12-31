@@ -54,7 +54,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | -------- | --- | -------- |
 | [nmt-android](https://github.com/harvardnlp/nmt-android) | [Yoon](https://github.com/yoonkim), [Sasha](https://github.com/srush) |  |
 | [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn) | [Yoon](https://github.com/yoonkim) |  |
-| [OpenNMT](http://opennmt.net) |[@harvardnlp](https://twitter.com/harvardnlp/) | |
+| [OpenNMT](https://github.com/OpenNMT/OpenNMT) | [harvardnlp](http://nlp.seas.harvard.edu/) | |
 
 
 ### Other
