@@ -15,6 +15,14 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) |  |
 
 
+### Custom C/C++ NMT
+| Software | Who | Comments |
+| -------- | --- | -------- |
+| [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | compatible with Nematus models |
+| [EUREKA-MangoNMT](https://github.com/jiajunzhangnlp/EUREKA-MangoNMT) | [Jiajun](https://github.com/jiajunzhangnlp) |  |
+| [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) |  |
+
+
 ### [DyNet](https://github.com/clab/dynet)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
@@ -67,8 +75,6 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### Other
 | Software | Who | Backend | Comments |
 | -------- | --- | ------- | -------- |
-| [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | Custom C++ | compatible with Nematus models |
-| [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) | Custom C++ |  |
 | [nmt.hybrid](https://github.com/lmthang/nmt.hybrid) | [Thang](https://github.com/lmthang) | Matlab | also [word-based](https://github.com/lmthang/nmt.matlab) |
 | [Paddle](https://github.com/baidu/Paddle/tree/master/demo/seqToseq/translation) | [Baidu](https://github.com/baidu) | [Paddle](https://github.com/baidu/Paddle) | demo |
 | [textsum](https://github.com/tensorflow/models/tree/master/textsum) | Google | TensorFlow | text summarization demo using seq2seq+attn |
