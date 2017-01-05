@@ -29,6 +29,12 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Keras [seq2seq](https://github.com/farizrahman4u/seq2seq) | [Fariz](https://github.com/farizrahman4u) |  |
 
 
+### [MXNet](http://mxnet.io)-based NMT
+| Software | Who | Comments |
+| -------- | --- | -------- |
+| [MXNMT](https://github.com/magic282/MXNMT) | [magic282](https://github.com/magic282) |  |
+
+
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
