@@ -53,6 +53,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [HNMT](https://github.com/robertostling/hnmt) | [Robert](https://github.com/robertostling) |  |
 | [Nematus](https://github.com/rsennrich/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) |  |
 | [neuralmt](https://github.com/zomux/neuralmt) | [Raphael](https://github.com/zomux) |  |
+| [SGNMT](https://github.com/ucam-smt/sgnmt) | [Cambridge](https://github.com/ucam-smt) | Syntactically-guided NMT |
 
 
 ### [Torch](https://github.com/torch/distro)-based NMT
