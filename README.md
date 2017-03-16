@@ -4,6 +4,14 @@
 
 Feel free add to this, via a [pull request](https://help.github.com/articles/creating-a-pull-request)
 
+
+## Project Stats
+* **12** project names include *nmt*
+* **4** project names include *seq2seq*
+* **2** project names include *dl4mt*
+* **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
+
+
 ## The Lists
 
 ### [Chainer](https://github.com/pfnet/chainer)-based NMT
