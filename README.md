@@ -26,6 +26,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | -------- | --- | -------- |
 | [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | Compatible with Nematus models |
 | [EUREKA-MangoNMT](https://github.com/jiajunzhangnlp/EUREKA-MangoNMT) | [Jiajun](https://github.com/jiajunzhangnlp) |  |
+| [Mantidae](https://github.com/duyvuleo/Mantidae) | [Cong](https://github.com/duyvuleo) | A successor of [Mantis](https://github.com/trevorcohn/mantis) |
 | [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) |  |
 | [Zoph_RNN](https://github.com/isi-nlp/Zoph_RNN) | [Barret](https://github.com/barretzoph) | Supports multi-GPU parallelism |
 
