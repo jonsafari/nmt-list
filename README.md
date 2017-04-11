@@ -50,6 +50,12 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [MXNMT](https://github.com/magic282/MXNMT) | [magic282](https://github.com/magic282) |  |
 
 
+### [PyTorch](https://github.com/pytorch/pytorch)-based NMT
+| Software | Who | Comments |
+| -------- | --- | -------- |
+| [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) | [Harvard](http://nlp.seas.harvard.edu/), [Systran](http://www.systrangroup.com) |  |
+
+
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
