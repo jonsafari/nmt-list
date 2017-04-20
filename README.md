@@ -7,12 +7,18 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 ## Project Stats
 * **12** project names include *nmt*
-* **4** project names include *seq2seq*
+* **5** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
 
 
 ## The Lists
+
+### [Caffe2](https://github.com/caffe2/caffe2)-based NMT
+| Software | Who | Comments |
+| -------- | --- | -------- |
+| [seq2seq](https://github.com/caffe2/caffe2/blob/master/caffe2/python/examples/seq2seq.py) | [Deepak](https://github.com/deepakg92), [Yury](https://github.com/urikz) |  |
+
 
 ### [Chainer](https://github.com/pfnet/chainer)-based NMT
 | Software | Who | Comments |
