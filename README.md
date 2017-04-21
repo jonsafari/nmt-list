@@ -6,7 +6,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **12** project names include *nmt*
+* **13** project names include *nmt*
 * **5** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -49,6 +49,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | Keras [seq2seq](https://github.com/farizrahman4u/seq2seq) | [Fariz](https://github.com/farizrahman4u) |  |
+| [NMT-Keras](https://github.com/lvapeab/nmt-keras) | [Álvaro](https://github.com/lvapeab) |  |
 
 
 ### [MXNet](http://mxnet.io)-based NMT
