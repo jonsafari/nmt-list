@@ -93,7 +93,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [nmt-android](https://github.com/harvardnlp/nmt-android) | [Yoon](https://github.com/yoonkim), [Sasha](https://github.com/srush) |  |
 | [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn) | [Yoon](https://github.com/yoonkim) | Superseded by OpenNMT, except for character-level stuff |
 | [OpenNMT](https://github.com/OpenNMT/OpenNMT) | [Harvard](http://nlp.seas.harvard.edu/), [Systran](http://www.systrangroup.com) |  |
-| [fairseq](https://github.com/facebookresearch/fairseq) | [Facebook](https://github.com/facebookresearch) | Novel CNN+LSTM approach |
+| [fairseq](https://github.com/facebookresearch/fairseq) | [Facebook](https://github.com/facebookresearch) | Novel CNN+attention |
 
 
 ### Other
