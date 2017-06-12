@@ -6,7 +6,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **14** project names include *nmt*
+* **15** project names include *nmt*
 * **5** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -85,6 +85,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [HNMT](https://github.com/robertostling/hnmt) | [Robert](https://github.com/robertostling) |  |
 | [Nematus](https://github.com/rsennrich/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) |  |
 | [neuralmt](https://github.com/zomux/neuralmt) | [Raphael](https://github.com/zomux) |  |
+| [NMT](https://github.com/tuzhaopeng/NMT) | [Zhaopeng](https://github.com/tuzhaopeng) | Adds coverage and context gate |
 | [nmtpy](https://github.com/lium-lst/nmtpy) | [LIUM](https://github.com/lium-lst) | refactored dl4mt-tutorial |
 | [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [SGNMT](https://github.com/ucam-smt/sgnmt) | [Cambridge](https://github.com/ucam-smt) | Syntactically-guided NMT |
