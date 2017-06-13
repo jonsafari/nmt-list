@@ -58,6 +58,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | [MXNMT](https://github.com/magic282/MXNMT) | [magic282](https://github.com/magic282) |  |
+| [sockeye](git@github.com:awslabs/sockeye.git) | [awslabs](https://github.com/awslabs) | |
 
 
 ### [PyTorch](https://github.com/pytorch/pytorch)-based NMT
