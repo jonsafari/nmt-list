@@ -25,7 +25,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | -------- | --- | -------- |
 | [chainn](https://github.com/philip30/chainn) | [Philip](http://isw3.naist.jp/~philip-a/index.html) |  |
 | [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) |  |
-| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [soskek](https://github.com/soskek) | Chainer implementation of [Google's pure attention model](https://arxiv.org/abs/1706.03762) | 
+| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements Google's [pure attention model](https://arxiv.org/abs/1706.03762) |
 
 
 ### Custom C/C++ NMT
