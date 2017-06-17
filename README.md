@@ -25,15 +25,15 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | -------- | --- | -------- |
 | [chainn](https://github.com/philip30/chainn) | [Philip](http://isw3.naist.jp/~philip-a/index.html) |  |
 | [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) |  |
-| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [soskek](https://github.com/soskek) | Chainer implementation of [Google's pure attention model](https://arxiv.org/abs/1706.03762) | 
+| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements Google's [pure attention model](https://arxiv.org/abs/1706.03762) |
 
 
 ### Custom C/C++ NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
-| [AmuNMT decoder](https://github.com/emjotde/amunmt) | [Marcin](https://github.com/emjotde) | Compatible with Nematus models |
 | [EUREKA-MangoNMT](https://github.com/jiajunzhangnlp/EUREKA-MangoNMT) | [Jiajun](https://github.com/jiajunzhangnlp) |  |
 | [Mantidae](https://github.com/duyvuleo/Mantidae) | [Cong](https://github.com/duyvuleo) | A successor of [Mantis](https://github.com/trevorcohn/mantis) |
+| [Marian](https://github.com/marian-nmt/marian) | [Marcin](https://github.com/emjotde), [Tomasz](https://github.com/tomekd) | Compatible with Nematus models |
 | [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) |  |
 | [Zoph_RNN](https://github.com/isi-nlp/Zoph_RNN) | [Barret](https://github.com/barretzoph) | Supports multi-GPU parallelism |
 
