@@ -41,6 +41,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### [DyNet](https://github.com/clab/dynet)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
+| [dynmt-py](https://github.com/roeeaharoni/dynmt-py) | [Roee](https://github.com/roeeaharoni) |  |
 | [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) |  |
 | [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) |  |
 | [NMTKit](https://github.com/odashi/nmtkit) | [Yusuke](https://github.com/odashi) |  |
