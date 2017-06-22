@@ -93,6 +93,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [nmtpy](https://github.com/lium-lst/nmtpy) | [LIUM](https://github.com/lium-lst) | refactored dl4mt-tutorial |
 | [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [SGNMT](https://github.com/ucam-smt/sgnmt) | [Cambridge](https://github.com/ucam-smt) | Syntactically-guided NMT |
+| [THUMT](https://github.com/thumt/THUMT) | [Tsinghua University](https://github.com/thumt) | |
 
 
 ### [Torch](https://github.com/torch/distro)-based NMT
