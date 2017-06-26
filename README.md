@@ -72,10 +72,11 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
-| [byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) | [Paarth](https://github.com/paarthneekhara) | in development |
+| [byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) | [Paarth](https://github.com/paarthneekhara) | |
 | [bytenet_translation](https://github.com/Kyubyong/bytenet_translation) | [Kyubyong](https://github.com/Kyubyong) |  |
 | [Neural Monkey](https://github.com/ufal/neuralmonkey) | [ÚFAL](https://github.com/ufal) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
+| [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
 | [tf-seq2seq](https://github.com/google/seq2seq) | [Denny](https://github.com/dennybritz) | [See also tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) |
 
 
