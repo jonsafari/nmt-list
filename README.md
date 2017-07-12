@@ -6,7 +6,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **15** project names include *nmt*
+* **16** project names include *nmt*
 * **5** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -78,6 +78,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
 | [tf-seq2seq](https://github.com/google/seq2seq) | [Denny](https://github.com/dennybritz) | [See also tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) |
+| [nmt](https://github.com/tensorflow/nmt) |  Thang Luong, Eugene Brevdo, Rui Zhao | Tutorial to build NMT from scratch |
 
 
 ### [Theano](https://github.com/Theano/Theano)-based NMT
