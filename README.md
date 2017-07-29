@@ -78,6 +78,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
 | [tf-seq2seq](https://github.com/google/seq2seq) | [Denny](https://github.com/dennybritz) | [See also tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) |
+| [NMT tutorial](https://github.com/tensorflow/nmt) | [Thang](https://github.com/lmthang) |  |
 
 
 ### [Theano](https://github.com/Theano/Theano)-based NMT
