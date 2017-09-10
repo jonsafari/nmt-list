@@ -41,11 +41,11 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### [DyNet](https://github.com/clab/dynet)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
-| [dynmt-py](https://github.com/roeeaharoni/dynmt-py) | [Roee](https://github.com/roeeaharoni) |  |
-| [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) |  |
-| [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) |  |
-| [NMTKit](https://github.com/odashi/nmtkit) | [Yusuke](https://github.com/odashi) |  |
-| [xnmt](https://github.com/neulab/xnmt) | [NeuLab](https://github.com/neulab) |  |
+| [dynmt-py](https://github.com/roeeaharoni/dynmt-py) | [Roee](https://github.com/roeeaharoni) | python |
+| [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) | C++ |
+| [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) | C++ |
+| [NMTKit](https://github.com/odashi/nmtkit) | [Yusuke](https://github.com/odashi) | C++ |
+| [xnmt](https://github.com/neulab/xnmt) | [NeuLab](https://github.com/neulab) | python |
 
 
 
