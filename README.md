@@ -17,7 +17,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### [Caffe2](https://github.com/caffe2/caffe2)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
-| [seq2seq](https://github.com/caffe2/caffe2/blob/master/caffe2/python/examples/seq2seq.py) | [Deepak](https://github.com/deepakg92), [Yury](https://github.com/urikz) |  |
+| [seq2seq](https://github.com/caffe2/caffe2/tree/master/caffe2/python/models/seq2seq) | [Deepak](https://github.com/deepakg92), [Yury](https://github.com/urikz) |  |
 
 
 ### [Chainer](https://github.com/pfnet/chainer)-based NMT
