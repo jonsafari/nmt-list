@@ -6,8 +6,8 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **16** project names include *nmt*
-* **5** project names include *seq2seq*
+* **17** project names include *nmt*
+* **6** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
 
@@ -67,6 +67,9 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) | [Harvard](http://nlp.seas.harvard.edu/), [Systran](http://www.systrangroup.com) |  |
+| [pytorch_nmt](https://github.com/pcyin/pytorch_nmt) | [Pengcheng](https://github.com/pcyin) |  |
+| [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch) | [Elad](https://github.com/eladhoffer) |  |
+
 
 
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)-based NMT
@@ -83,6 +86,8 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ### [Theano](https://github.com/Theano/Theano)-based NMT
+Note: Theano will be [discontinued](https://groups.google.com/forum/#!topic/theano-users/7Poq8BZutbY)
+
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | [DCNMT](https://github.com/swordyork/dcnmt) | [SwordYork](https://github.com/SwordYork) |  |
