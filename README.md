@@ -6,7 +6,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **15** project names include *nmt*
+* **16** project names include *nmt*
 * **5** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -75,6 +75,8 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) | [Paarth](https://github.com/paarthneekhara) | |
 | [bytenet_translation](https://github.com/Kyubyong/bytenet_translation) | [Kyubyong](https://github.com/Kyubyong) |  |
 | [Neural Monkey](https://github.com/ufal/neuralmonkey) | [ÚFAL](https://github.com/ufal) |  |
+| [NMT](https://github.com/tensorflow/nmt) | [Thang](https://github.com/lmthang), [Eugene](https://github.com/ebrevdo), [Rui](https://github.com/ruizhaogit) |  |
+| [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
 | [tf-seq2seq](https://github.com/google/seq2seq) | [Denny](https://github.com/dennybritz) | [See also tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) |
@@ -91,7 +93,6 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [neuralmt](https://github.com/zomux/neuralmt) | [Raphael](https://github.com/zomux) |  |
 | [NMT](https://github.com/tuzhaopeng/NMT) | [Zhaopeng](https://github.com/tuzhaopeng) | Adds coverage and context gate |
 | [nmtpy](https://github.com/lium-lst/nmtpy) | [LIUM](https://github.com/lium-lst) | refactored dl4mt-tutorial |
-| [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [SGNMT](https://github.com/ucam-smt/sgnmt) | [Cambridge](https://github.com/ucam-smt) | Syntactically-guided NMT |
 | [THUMT](https://github.com/thumt/THUMT) | [Tsinghua University](https://github.com/thumt) | |
 
