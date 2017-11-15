@@ -94,7 +94,7 @@ Note: Theano will be [discontinued](https://groups.google.com/forum/#!topic/thea
 | [dl4mt-tutorial](https://github.com/nyu-dl/dl4mt-tutorial) | [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) |  |
 | [dl4mt-c2c](https://github.com/nyu-dl/dl4mt-c2c) | [Jason](https://github.com/jasonleeinf), [Cho](https://github.com/kyunghyuncho) |  |
 | [HNMT](https://github.com/robertostling/hnmt) | [Robert](https://github.com/robertostling) |  |
-| [Nematus](https://github.com/rsennrich/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) |  |
+| [Nematus](https://github.com/EdinburghNLP/nematus) | [Rico](https://github.com/rsennrich), [Cho](https://github.com/kyunghyuncho), [Orhan](https://github.com/orhanf) |  |
 | [neuralmt](https://github.com/zomux/neuralmt) | [Raphael](https://github.com/zomux) |  |
 | [NMT](https://github.com/tuzhaopeng/NMT) | [Zhaopeng](https://github.com/tuzhaopeng) | Adds coverage and context gate |
 | [nmtpy](https://github.com/lium-lst/nmtpy) | [LIUM](https://github.com/lium-lst) | refactored dl4mt-tutorial |
