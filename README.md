@@ -6,7 +6,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 
 
 ## Project Stats
-* **18** project names include *nmt*
+* **19** project names include *nmt*
 * **6** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -82,6 +82,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [bytenet_translation](https://github.com/Kyubyong/bytenet_translation) | [Kyubyong](https://github.com/Kyubyong) |  |
 | [Neural Monkey](https://github.com/ufal/neuralmonkey) | [ÚFAL](https://github.com/ufal) |  |
 | [NMT](https://github.com/tensorflow/nmt) | [Thang](https://github.com/lmthang), [Eugene](https://github.com/ebrevdo), [Rui](https://github.com/ruizhaogit) |  |
+| [OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf) | [Guillaume](https://github.com/guillaumekln) |  |
 | [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
