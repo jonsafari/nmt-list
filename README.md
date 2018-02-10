@@ -2,11 +2,11 @@
 
 ## Contributions
 
-Feel free add to this, via a [pull request](https://help.github.com/articles/creating-a-pull-request)
+Feel free add to this via a [pull request](https://help.github.com/articles/creating-a-pull-request), with each section alphabetically ordered.
 
 
 ## Project Stats
-* **19** project names include *nmt*
+* **22** project names include *nmt*
 * **6** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -23,9 +23,9 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 ### [Chainer](https://github.com/pfnet/chainer)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
+| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements the [Transformer](https://arxiv.org/abs/1706.03762) |
 | [chainn](https://github.com/philip30/chainn) | [Philip](http://isw3.naist.jp/~philip-a/index.html) |  |
 | [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) |  |
-| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements [Transformer](https://arxiv.org/abs/1706.03762) |
 
 
 ### Custom C/C++ NMT
@@ -45,7 +45,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) | C++ |
 | [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) | C++ |
 | [NMTKit](https://github.com/odashi/nmtkit) | [Yusuke](https://github.com/odashi) | C++ |
-| [Transformer-DyNet](https://github.com/duyvuleo/Transformer-DyNet) | [Vu](https://github.com/duyvuleo) | C++; implements [Transformer](https://arxiv.org/abs/1706.03762) |
+| [Transformer-DyNet](https://github.com/duyvuleo/Transformer-DyNet) | [Vu](https://github.com/duyvuleo) | C++; implements the [Transformer](https://arxiv.org/abs/1706.03762) |
 | [xnmt](https://github.com/neulab/xnmt) | [NeuLab](https://github.com/neulab) | Python |
 
 
@@ -82,13 +82,13 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) | [Paarth](https://github.com/paarthneekhara) | |
 | [bytenet_translation](https://github.com/Kyubyong/bytenet_translation) | [Kyubyong](https://github.com/Kyubyong) |  |
 | [Neural Monkey](https://github.com/ufal/neuralmonkey) | [ÚFAL](https://github.com/ufal) |  |
+| [NJUNMT-tf](https://github.com/zhaocq-nlp/NJUNMT-tf) | [ZhaoChengqi](https://github.com/zhaocq-nlp) |  |
 | [NMT](https://github.com/tensorflow/nmt) | [Thang](https://github.com/lmthang), [Eugene](https://github.com/ebrevdo), [Rui](https://github.com/ruizhaogit) |  |
 | [OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf) | [Guillaume](https://github.com/guillaumekln) |  |
 | [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
 | [tf-seq2seq](https://github.com/google/seq2seq) | [Denny](https://github.com/dennybritz) | [See also tutorial](https://www.tensorflow.org/versions/master/tutorials/seq2seq/index.html) |
-| [NJUNMT-tf](https://github.com/zhaocq-nlp/NJUNMT-tf) | [ZhaoChengqi](https://github.com/zhaocq-nlp), [Nanjing University](https://github.com/NJUNLP) | Implements DL4MT and google's tensor2tensor |
 
 
 ### [Theano](https://github.com/Theano/Theano)-based NMT
