@@ -32,10 +32,11 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | Software | Who | Comments |
 | -------- | --- | -------- |
 | [EUREKA-MangoNMT](https://github.com/jiajunzhangnlp/EUREKA-MangoNMT) | [Jiajun](https://github.com/jiajunzhangnlp) |  |
-| [Mantidae](https://github.com/duyvuleo/Mantidae) | [Cong](https://github.com/duyvuleo) | A successor of [Mantis](https://github.com/trevorcohn/mantis) |
+| [Mantidae](https://github.com/duyvuleo/Mantidae) | [Vu](https://github.com/duyvuleo) | A successor of [Mantis](https://github.com/trevorcohn/mantis) |
 | [Marian](https://github.com/marian-nmt/marian) | [Marcin](https://github.com/emjotde), [Tomasz](https://github.com/tomekd) | Compatible with Nematus models |
 | [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) |  |
 | [Zoph_RNN](https://github.com/isi-nlp/Zoph_RNN) | [Barret](https://github.com/barretzoph) | Supports multi-GPU parallelism |
+| [Transformer-DyNet](https://github.com/duyvuleo/Transformer-DyNet) | [Vu](https://github.com/duyvuleo) | A DyNet-based C++ implementation of Google's [pure attention model](https://arxiv.org/abs/1706.03762) |
 
 
 ### [DyNet](https://github.com/clab/dynet)-based NMT
