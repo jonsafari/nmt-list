@@ -25,7 +25,7 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | -------- | --- | -------- |
 | [chainn](https://github.com/philip30/chainn) | [Philip](http://isw3.naist.jp/~philip-a/index.html) |  |
 | [KyotoNMT](https://github.com/fabiencro/knmt) | [Fabien](https://github.com/fabiencro) |  |
-| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements Google's [pure attention model](https://arxiv.org/abs/1706.03762) |
+| [attention_is_all_you_need](https://github.com/soskek/attention_is_all_you_need) | [Sosuke](https://github.com/soskek) | impements [Transformer](https://arxiv.org/abs/1706.03762) |
 
 
 ### Custom C/C++ NMT
@@ -36,17 +36,17 @@ Feel free add to this, via a [pull request](https://help.github.com/articles/cre
 | [Marian](https://github.com/marian-nmt/marian) | [Marcin](https://github.com/emjotde), [Tomasz](https://github.com/tomekd) | Compatible with Nematus models |
 | [N3LP](https://github.com/hassyGo/N3LP) | [Kazuma](https://github.com/hassyGo), [Akiko](https://github.com/tempra28) |  |
 | [Zoph_RNN](https://github.com/isi-nlp/Zoph_RNN) | [Barret](https://github.com/barretzoph) | Supports multi-GPU parallelism |
-| [Transformer-DyNet](https://github.com/duyvuleo/Transformer-DyNet) | [Vu](https://github.com/duyvuleo) | A DyNet-based C++ implementation of Google's [pure attention model](https://arxiv.org/abs/1706.03762) |
 
 
 ### [DyNet](https://github.com/clab/dynet)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
-| [dynmt-py](https://github.com/roeeaharoni/dynmt-py) | [Roee](https://github.com/roeeaharoni) | python |
+| [dynmt-py](https://github.com/roeeaharoni/dynmt-py) | [Roee](https://github.com/roeeaharoni) | Python |
 | [lamtram](https://github.com/neubig/lamtram) | [Graham](https://github.com/neubig) | C++ |
 | [mantis](https://github.com/trevorcohn/mantis) | [Trevor](https://github.com/trevorcohn) | C++ |
 | [NMTKit](https://github.com/odashi/nmtkit) | [Yusuke](https://github.com/odashi) | C++ |
-| [xnmt](https://github.com/neulab/xnmt) | [NeuLab](https://github.com/neulab) | python |
+| [Transformer-DyNet](https://github.com/duyvuleo/Transformer-DyNet) | [Vu](https://github.com/duyvuleo) | C++; implements [Transformer](https://arxiv.org/abs/1706.03762) |
+| [xnmt](https://github.com/neulab/xnmt) | [NeuLab](https://github.com/neulab) | Python |
 
 
 
