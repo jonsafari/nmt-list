@@ -73,6 +73,8 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) | [Harvard](http://nlp.seas.harvard.edu/), [Systran](http://www.systrangroup.com) |  |
 | [pytorch_nmt](https://github.com/pcyin/pytorch_nmt) | [Pengcheng](https://github.com/pcyin) |  |
 | [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch) | [Elad](https://github.com/eladhoffer) |  |
+| [UNdreaMT](https://github.com/artetxem/undreamt) | [Mikel](https://github.com/artetxem) | Unsupervised |
+
 
 
 
