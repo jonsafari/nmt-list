@@ -6,7 +6,7 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 
 
 ## Project Stats
-* **22** project names include *nmt*
+* **23** project names include *nmt*
 * **6** project names include *seq2seq*
 * **2** project names include *dl4mt*
 * **3** projects are derived from Kyunghyun Cho's tutorial at the 2015 [DL4MT winter school](http://dl4mt.computing.dcu.ie)
@@ -125,5 +125,4 @@ Note: Theano will be [discontinued](https://groups.google.com/forum/#!topic/thea
 | Software | Who | Backend | Comments |
 | -------- | --- | ------- | -------- |
 | [nmt.hybrid](https://github.com/lmthang/nmt.hybrid) | [Thang](https://github.com/lmthang) | Matlab | also [word-based](https://github.com/lmthang/nmt.matlab) |
-| [Paddle](https://github.com/baidu/Paddle/tree/master/demo/seqToseq/translation) | [Baidu](https://github.com/baidu) | [Paddle](https://github.com/baidu/Paddle) | demo |
-| [textsum](https://github.com/tensorflow/models/tree/master/textsum) | Google | TensorFlow | text summarization demo using seq2seq+attn |
+| [textsum](https://github.com/tensorflow/models/tree/master/research/textsum) | Google | TensorFlow | text summarization demo using seq2seq+attn |
