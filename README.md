@@ -74,6 +74,7 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [pytorch_nmt](https://github.com/pcyin/pytorch_nmt) | [Pengcheng](https://github.com/pcyin) |  |
 | [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch) | [Elad](https://github.com/eladhoffer) |  |
 | [UNdreaMT](https://github.com/artetxem/undreamt) | [Mikel](https://github.com/artetxem) | Unsupervised |
+| [NJUNMT-pytorch](https://github.com/whr94621/NJUNMT-pytorch) | [Haoran Wei](https://github.com/whr94621) & [Zaixiang Zheng](https://github.com/zhengzx-nlp) |  |
 
 
 
