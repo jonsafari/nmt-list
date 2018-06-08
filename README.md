@@ -71,6 +71,7 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [fairseq-py](https://github.com/facebookresearch/fairseq-py) | [Myle](https://github.com/myleott) & [Facebook Research](https://github.com/facebookresearch) |  |
 | [NJUNMT-pytorch](https://github.com/whr94621/NJUNMT-pytorch) | [Haoran Wei](https://github.com/whr94621) & [Zaixiang Zheng](https://github.com/zhengzx-nlp) |  |
 | [nmtpytorch](https://github.com/lium-lst/nmtpytorch) | [Ozan](https://github.com/ozancaglayan) |  |
+| [nonauto-nmt](https://github.com/salesforce/nonauto-nmt) | [Salesforce Research](https://github.com/salesforce) |  |
 | [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) | [Harvard](http://nlp.seas.harvard.edu/), [Systran](http://www.systrangroup.com) |  |
 | [pytorch_nmt](https://github.com/pcyin/pytorch_nmt) | [Pengcheng](https://github.com/pcyin) |  |
 | [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch) | [Elad](https://github.com/eladhoffer) |  |
