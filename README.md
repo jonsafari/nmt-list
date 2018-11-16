@@ -60,9 +60,9 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 ### [MXNet](http://mxnet.io)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
+| [GluonNLP](https://github.com/dmlc/gluon-nlp) | [DMLC](https://github.com/dmlc) | [website](https://gluon-nlp.mxnet.io) |
 | [MXNMT](https://github.com/magic282/MXNMT) | [magic282](https://github.com/magic282) |  |
 | [sockeye](https://github.com/awslabs/sockeye) | [AWS Labs](https://github.com/awslabs) | |
-| [GluonNLP](https://github.com/dmlc/gluon-nlp) | [DMLC](https://github.com/dmlc) | [website](https://gluon-nlp.mxnet.io) |
 
 
 ### [PyTorch](https://github.com/pytorch/pytorch)-based NMT
