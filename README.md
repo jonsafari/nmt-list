@@ -69,6 +69,7 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | -------- | --- | -------- |
 | [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) | [Yu-Hsiang](https://github.com/jadore801120) |  |
 | [fairseq-py](https://github.com/facebookresearch/fairseq-py) | [Myle](https://github.com/myleott) & [Facebook Research](https://github.com/facebookresearch) |  |
+| [Joey NMT](https://github.com/joeynmt/joeynmt) | [Heidelberg University](https://www.cl.uni-heidelberg.de/statnlpgroup/) & University of Amsterdam | minimalist, beginner-friendly |
 | [NJUNMT-pytorch](https://github.com/whr94621/NJUNMT-pytorch) | [Haoran Wei](https://github.com/whr94621) & [Zaixiang Zheng](https://github.com/zhengzx-nlp) |  |
 | [nmtpytorch](https://github.com/lium-lst/nmtpytorch) | [Ozan](https://github.com/ozancaglayan) |  |
 | [nonauto-nmt](https://github.com/salesforce/nonauto-nmt) | [Salesforce Research](https://github.com/salesforce) |  |
@@ -76,7 +77,6 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [pytorch_nmt](https://github.com/pcyin/pytorch_nmt) | [Pengcheng](https://github.com/pcyin) |  |
 | [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch) | [Elad](https://github.com/eladhoffer) |  |
 | [UNdreaMT](https://github.com/artetxem/undreamt) | [Mikel](https://github.com/artetxem) | Unsupervised |
-
 
 
 
