@@ -89,6 +89,7 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [NJUNMT-tf](https://github.com/zhaocq-nlp/NJUNMT-tf) | [ZhaoChengqi](https://github.com/zhaocq-nlp) |  |
 | [NMT](https://github.com/tensorflow/nmt) | [Thang](https://github.com/lmthang), [Eugene](https://github.com/ebrevdo), [Rui](https://github.com/ruizhaogit) |  |
 | [OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf) | [Guillaume](https://github.com/guillaumekln) |  |
+| [OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) | [Kuchaiev](https://github.com/okuchaiev) |  |
 | [RNNsearch](https://github.com/XMUNLP/RNNsearch) | [Playinf](https://github.com/Playinf), [Xiamen University](https://github.com/XMUNLP) |  |
 | [seq2seq](https://github.com/eske/seq2seq) | [Alexandre](https://github.com/eske) |  |
 | [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) | [Google](https://github.com/tensorflow) | Implements many models |
