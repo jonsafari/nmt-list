@@ -38,6 +38,12 @@ Feel free add to this via a [pull request](https://help.github.com/articles/crea
 | [Zoph_RNN](https://github.com/isi-nlp/Zoph_RNN) | [Barret](https://github.com/barretzoph) | Supports multi-GPU parallelism |
 
 
+### Custom .NET(C#) NMT
+| Software | Who | Comments |
+| -------- | --- | -------- |
+| [Seq2SeqSharp](https://github.com/zhongkaifu/Seq2SeqSharp) | [Zhongkai Fu](https://github.com/zhongkaifu/) | Implements the [Transformer](https://arxiv.org/abs/1706.03762) & BiLSTM |
+
+
 ### [DyNet](https://github.com/clab/dynet)-based NMT
 | Software | Who | Comments |
 | -------- | --- | -------- |
